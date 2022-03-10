@@ -9,7 +9,7 @@
 #include "ServoDispatchDirect.h"
 
 #include "Orientation.h"
-#include "USBSabertooth_NB.h"
+#include "USBSabertooth.h"
 
 #define MY_I2C_ADDRESS          99
 #define MARC_SERIAL_PORT        Serial1
